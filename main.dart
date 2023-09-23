@@ -33,3 +33,20 @@ class MyApp extends StatelessWidget {
     );
   }
 }
+
+ //account
+ //fileche
+ // cupertino_icons: ^1.0.2
+ //  sizer: ^2.0.15
+ //  firebase_core: ^2.4.1
+ //  firebase_auth: ^4.2.5
+ //  pdf: ^3.10.1
+ //  shared_preferences: ^2.0.17
+ //  google_sign_in: ^5.4.3
+ //  printing:
+ //  flutter_otp_text_field: ^1.1.1
+ //  cloud_firestore: ^4.3.1
+ //  firebase_storage: ^11.0.10
+ //  image_picker: ^0.8.6+1
+ //  provider: ^6.0.5
+ //  get: ^4.6.5
